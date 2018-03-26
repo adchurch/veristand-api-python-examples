@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MAPortConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+<Project> 
+C:\Users\Public\Documents\National Instruments\NI VeriStand 2017\Examples\Stimulus Profile\Engine Demo\Engine Demo.nivsproj 
+</Project>
+<LogFilePath> 
+C:\Demo\Logs 
+</LogFilePath>
+<TaskList> 
+<String>Task1000</String>
+<String>Task100</String>
+<String>Task50</String>
+<String>Task10</String> 
+</TaskList>
+<ShowWorkspace>true</ShowWorkspace>
+<LogPostProcessPeriodMS>500</LogPostProcessPeriodMS> 
+</MAPortConfig> 
+
